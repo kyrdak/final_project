@@ -1,0 +1,67 @@
+.top_box{
+    padding: 25px;
+    background-color: bisque;
+    padding: 30px;
+    border: 10px solid rgb(133, 86, 28);
+}
+
+.ram{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+    padding: 150px;
+    background-color:rgb(133, 86, 28);
+}
+
+.ram2{
+    justify-content: space-between;
+    margin-top: 10px;
+    padding: 150px;
+    background-color:rgb(133, 86, 28);
+}
+
+.ram3{
+    justify-content: space-between;
+    margin-top: 10px;
+    padding: 150px;
+    background-color:rgb(133, 86, 28);
+}
+
+.ram4{
+    justify-content: space-between;
+    margin-top: 10px;
+    padding: 150px;
+    background-color:rgb(133, 86, 28);
+}
+
+.ram5{
+    justify-content: space-between;
+    margin-top: 10px;
+    padding: 150px;
+    background-color:rgb(133, 86, 28);
+}
+
+.a{
+    color: black;
+    font-size: 25px;
+}
+
+.chivava{
+    height: 170px;
+}
+
+.meloun{
+    height: 200px;
+}
+
+.popcat{
+    height: 220px;
+}
+
+.blije{
+    height: 200px;
+}
+
+.cringe{
+    height: 200px;
+}
